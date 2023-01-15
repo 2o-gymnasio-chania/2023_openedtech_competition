@@ -1,2 +1,2 @@
 # 2023_openedtech_competition
-Repository for the 5th Greek Open Technologies Robotics competition
+Αποθετήριο του 2ου Γυμνασίου Χανίων για τις ανάγκες του 5ου Πανελλήνιου Διαγωνισμού Ανοιχτών Τεχνολογιών στην εκπαίδευση.
