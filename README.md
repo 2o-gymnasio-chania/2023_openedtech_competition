@@ -1,4 +1,4 @@
-![Wheel Allert](https://github.com/2o-gymnasio-chania/2023_openedtech_competition/blob/main/images/wheel_alert_idea_2.jpg)
+![Wheel Allert](https://github.com/2o-gymnasio-chania/2023_openedtech_competition/blob/main/images/wheel_alert_idea_s.jpg)
 # 2ο Γυμνάσιο Χανίων - 5oς Πανελλήνιος Διαγωνισμός Ανοιχτών Τεχνολογιών
 ## Wheel Allert - ρομπότ επιτήρησης των δαπέδων ομαλής κλήσης για ΑΜΕΑ
 ### Αρχική ιδέα
