@@ -1,6 +1,6 @@
 # 2ο Γυμνάσιο Χανίων - 5oς Πανελλήνιος Διαγωνισμός Ανοιχτών Τεχνολογιών
 
-<img src="images/wheel_alert_idea_s.jpg" width=800%>
+<img src="images/wheel_alert_idea_s.jpg" width=80%>
 
 *Το ρομπότ Wheel Alert - πρωτότυπο σχέδιο*
 
