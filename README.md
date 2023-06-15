@@ -160,7 +160,7 @@
 
 *Σύνταξη του αλγορίθμου - το διάγραμμα ροής*
 
-Το πρόγραμμα που αναπτύχθηκε είναι διαθέσιμο στο αποθετήριο, με το όνομα [wheel_alert.ino](schediasi/logismiko/arduino_programs/BinBot/BinBot.ino).
+Το πρόγραμμα που αναπτύχθηκε είναι διαθέσιμο στο αποθετήριο, με το όνομα [wheel_alert.ino](https://github.com/2o-gymnasio-chania/2023_openedtech_competition/blob/main/programs/wheel_alert/wheel_alert.ino).
 
 ### Μηχανισμοί και ηλεκτρονικά ###
 
@@ -191,7 +191,7 @@
 *Σχέδιο ανοιχτού εκπαιδευτικού πόρου σύμφωνα με το OER*
 
 Στο πλαίσιο του διαγωνισμού αναπτύχθηκε ένα [σχέδιο ανοιχτού εκπαιδευτικού πόρου](https://oer.ellak.gr/2018/03/02/oer-canvas-to-protipo-gia-tin-dimiourgia-anichton-ekpedeftikon-poron-ke-sta-ellinika/) - Open Educational Resources (OER). Το σχέδιo είναι διαθέσιμο στο αποθετήριο της ομάδας:
-- [https://github.com/2o-gymnasio-chania/2022_openedtech_competition/blob/main/OER_canvas/OER_canvas_binBot.png](https://github.com/2o-gymnasio-chania/2022_openedtech_competition/blob/main/OER_canvas/OER_canvas_binBot.png)
+- [https://github.com/2o-gymnasio-chania/2023_openedtech_competition/blob/main/OER_canvas/OER_canvas_Wheel_Alert.jpg](https://github.com/2o-gymnasio-chania/2023_openedtech_competition/blob/main/OER_canvas/OER_canvas_Wheel_Alert.jpg)
 
 ## Άδειες χρήσης, για άδειες λογισμικού και περιεχομένου ##
 Η άδεια χρήση που επιλέχθηκε για το έργο της ομάδας είναι η [GNU General Public License v3.0](https://github.com/2o-gymnasio-chania/2021_openedtech_competition/blob/main/LICENSE).
